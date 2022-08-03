@@ -5,7 +5,10 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Day6_LogicalProblem");
-            PerfectNumber.FindPerfectNumber();
+
+            Console.WriteLine("enter the number");
+            int num = Convert.ToInt32(Console.ReadLine());
+            PrimeNumber.PrimeNum(num);
 
         }
     }
