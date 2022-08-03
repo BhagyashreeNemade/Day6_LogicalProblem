@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Day6_LogicalProblem");
 
-            CouponNumber.FindCouponNumber();
+            ProgramStopWatch.StopWatch();
 
         }
     }
