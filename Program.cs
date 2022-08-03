@@ -7,8 +7,7 @@
             Console.WriteLine("Day6_LogicalProblem");
 
             Console.WriteLine("enter the number");
-            int num = Convert.ToInt32(Console.ReadLine());
-            PrimeNumber.PrimeNum(num);
+            Reverse.ReverseNumber();
 
         }
     }
