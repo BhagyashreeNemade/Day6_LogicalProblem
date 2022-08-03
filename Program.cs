@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Day6_LogicalProblem");
-            FibonacciSeries.DispalyFibonacci();
+            PerfectNumber.FindPerfectNumber();
 
         }
     }
