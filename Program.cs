@@ -6,8 +6,7 @@
         {
             Console.WriteLine("Day6_LogicalProblem");
 
-            Console.WriteLine("enter the number");
-            Reverse.ReverseNumber();
+            CouponNumber.FindCouponNumber();
 
         }
     }
